@@ -5,7 +5,7 @@ This Application provide shopping experience to user, to buy home furninshing pr
 Also contact us and policy page for this website.
 
 ## Assignment Description
-This Application provide shopping experience to user, to buy home furninshing products. Users can Add and Remove products to/from their cart.Checout page automatical calculate the total of items in cart.User can sign up and authenticated on sign in page. Administrator also authenticated using his/her credential and manage products.
+Users can Add and Remove products to/from their cart.Checout page automatical calculate the total of items in cart.User can sign up and authenticated on sign in page. Administrator also authenticated using his/her credential and manage products.
 Also contact us and policy page for this website.
 
 ## Submission Instructions
@@ -24,11 +24,7 @@ User authentication module take user credential validation.
 Error page if user provide invalid request to page.
 ### Technologies
 
-Java
-HTML
-Thymeleaf
-Bootstrap
-MySQL /H2
+Java, HTML, Thymeleaf, Bootstrap, MySQL /H2
 
 ### What I'll Have to Learn
 - Creating complete project
