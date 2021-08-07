@@ -1,5 +1,5 @@
 # Project Outline
-Premium Home Decor
+Premium Home Decor.
 Find Great premium Home Furninshing Products Online. Buy online to give great look to your home.
 This Application provide shopping experience to user, to buy home furninshing products. Users can Add and Remove products to/from their cart.Checout page automatical calculate the total of items in cart.User can sign up and authenticated on sign in page. Administrator also authenticated using his/her credential and manage products.
 Also contact us and policy page for this website.
