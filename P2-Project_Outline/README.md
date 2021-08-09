@@ -6,17 +6,20 @@ This Application provide shopping experience to user, to buy home furninshing pr
 Also contact us and policy page for this website.
 
 ### Features
-Administrator authentication  module provide admin credential validation and redirect if it's correct.
-
-Product Management : Administrator can add /remove/ update products
-Shopping: User can naviagte to products and proudct inforation.  Add product to cart.
-Checout:  This page display proudct in cart and show totat. User can add /remove proudct from cart.
-User authentication module take user credential validation.
-Error page if user provide invalid request to page.
+- Administrator authentication  module provide admin credential validation and redirect if it's correct.
+- Product Management : Administrator can add /remove/ update products
+- Shopping: User can naviagte to products and proudct inforation.  Add product to cart.
+- Checout:  This page display proudct in cart and show totat. User can add /remove proudct from cart.
+- User authentication module take user credential validation.
+- Error page if user provide invalid request to page.
 
 ### Technologies
 
-Java, HTML, Thymeleaf, Bootstrap, MySQL /H2
+- Java
+- HTML  
+- Thymeleaf
+- Bootstrap
+- MySQL /H2
 
 ### What I'll Have to Learn
 - Creating complete project
