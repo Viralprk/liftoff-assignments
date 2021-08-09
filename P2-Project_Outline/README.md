@@ -9,7 +9,7 @@ Also contact us and policy page for this website.
 - Administrator authentication  module provide admin credential validation and redirect if it's correct.
 - Product Management : Administrator can add /remove/ update products
 - Shopping: User can naviagte to products and proudct inforation.  Add product to cart.
-- Checout:  This page display proudct in cart and show totat. User can add /remove proudct from cart.
+- Checkout:  This page display proudct in cart and show totat. User can add /remove proudct from cart.
 - User authentication module take user credential validation.
 - Error page if user provide invalid request to page.
 
