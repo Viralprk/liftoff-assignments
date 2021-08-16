@@ -15,4 +15,4 @@ https://trello.com/b/3DlWm98i/my-project
 
 ### Project Repo Link
 
-https://github.com/Viralprk
+https://github.com/Viralprk/liftoff-assignments
